@@ -1,4 +1,5 @@
 # MCP OpenFEC Server
+[![smithery badge](https://smithery.ai/badge/@psalzman/mcp-openfec)](https://smithery.ai/server/@psalzman/mcp-openfec)
 
 A Model Context Protocol (MCP) server that provides access to Federal Election Commission (FEC) campaign finance data through the OpenFEC API.
 
@@ -19,6 +20,15 @@ A Model Context Protocol (MCP) server that provides access to Federal Election C
 
 ## Installation
 
+### Installing via Smithery
+
+To install OpenFEC Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@psalzman/mcp-openfec):
+
+```bash
+npx -y @smithery/cli install @psalzman/mcp-openfec --client claude
+```
+
+### Manual Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/psalzman/mcp-openfec
