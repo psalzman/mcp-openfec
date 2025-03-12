@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides access to Federal Election Commission (FEC) campaign finance data through the OpenFEC API.
 
+<a href="https://glama.ai/mcp/servers/2ujrcuobzz">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/2ujrcuobzz/badge" alt="OpenFEC Server MCP server" />
+</a>
+
 ## Features
 
 - Search for candidates by name, state, or office
